@@ -1,3 +1,8 @@
+# for data mining
+Boulder_Weather_7_Days.csv
+FinanceData.csv
+Iserlohn_10_Days.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
